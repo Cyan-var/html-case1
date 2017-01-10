@@ -1,0 +1,49 @@
+body{
+	margin: 0;
+}
+a{
+	text-decoration: none;
+	color: #000;
+	font: 16px/40px "Microsoft Yahei";
+}
+#box{
+	width: 440px;
+	height: 470px;
+	background: url(../img/all_bg.jpg) no-repeat;
+	padding: 113px 131px 117px 129px;
+}
+.wrap{
+	width: 373px;
+	height: 400px;
+	border: 2px solid #e15671;
+	background-color: #fff;
+	padding: 38px 31px 28px 32px;
+}
+.item{
+	background-color: #fefafb;
+	margin-bottom: 10px;
+	font-size: 0;
+}
+.item a, .item .line{
+	vertical-align: middle;
+}
+.item .left_title{
+	display: inline-block;
+	width: 105px;
+	background: url(../img/title_bg.png) no-repeat;
+	text-align: center;
+	color: #e15671;
+	margin-right: 2px;
+}
+.item .line{
+	display: inline-block;
+	width: 2px;
+	height: 16px;
+	background-color: #d1d0d0;
+}
+.item .right_item{
+	margin: 0 20px;
+}
+.item .item_in{
+	color: #56a4e1;
+}

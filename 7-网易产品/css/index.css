@@ -1,0 +1,61 @@
+body,h4{
+	margin: 0;
+}
+ul{
+	margin: 0;
+	padding: 0;
+}
+#wrap{
+	width: 300px;
+	height: 147px;
+	border-top: 2px solid #206f96;
+}
+#wrap .head{
+	width: 298px;
+	height: 29px;
+	border-left: 1px solid #cfcfcf;
+	border-right: 1px solid #cfcfcf;
+	background: url(../img/head_bg.jpg) repeat-x;
+}
+#wrap h4{
+	font: bold 14px/29px "宋体";
+	padding-left: 10px;
+}
+#wrap .content{
+	width: 298px;
+	height: 386px;
+	border: 1px solid #cfcfcf;
+}
+#wrap .content li{
+	width: 298px;
+}
+#wrap .item1{
+	height: 57px;
+	background: url(../img/item1_bg.jpg) no-repeat 16px 25px;
+}
+#wrap .item2{
+	height: 126px;
+	background: #f7f7f7 url(../img/item2_bg.jpg) no-repeat 9px 51px;
+}
+#wrap .item3{
+	height: 76px;
+	background: url(../img/item3_bg.jpg) no-repeat 15px 25px;
+}
+#wrap .item4{
+	height: 127px;
+	background: #f7f7f7 url(../img/item4_bg.jpg) no-repeat 12px 49px;
+}
+#wrap .textbox{
+	padding-left: 50px;
+	padding-top: 13px;
+	font: 12px/25px "宋体";
+	word-spacing: 4px;
+}
+#wrap .textbox a{
+	text-decoration: none;
+	color: #000;;
+	white-space: nowrap;
+}
+#wrap .textbox1{
+	padding-top: 19px;
+}

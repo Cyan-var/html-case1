@@ -1,0 +1,61 @@
+body{
+	margin: 0;
+}
+ul{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+#wrap{
+	width: 500px;
+	height: 620px;
+	padding: 93px 150px 87px 150px;
+	background: url(../img/all_bg.jpg) no-repeat;
+}
+#wrap .box1{
+	width: 496px;
+	height: 616px;
+	border: 2px solid #beafe2;
+	background-color: #fff;
+}
+#wrap .head{
+	height: 120px;
+	background: url(../img/head_bg.jpg) no-repeat;
+}
+#wrap .content{
+	padding: 20px 0 13px 0; 
+}
+#wrap .content li{
+	padding-left: 105px;
+	border-bottom: 2px solid #ebe7f6;
+	word-spacing: 16px;
+}
+#wrap .content a{
+	text-decoration: none;
+	color: #000;
+	white-space: nowrap;
+}
+#wrap .content .textBox{
+	font: 18px/38px "Microsoft Yahei";
+	padding: 13px 0;
+}
+#wrap .content .item1{
+	background: url(../img/email.png) no-repeat 39px 14px;
+	padding-bottom: 14px; 
+}
+#wrap .content .item2{
+	background: url(../img/mouse.png) no-repeat 39px 30px;
+}
+#wrap .content .item3{
+	background: url(../img/face.png) no-repeat 39px 33px;
+}
+#wrap .content .item4{
+	background: url(../img/star.png) no-repeat 39px 32px;
+	border: none;
+}
+#wrap .item2 .textBox{
+	padding-top: 11px;
+}
+#wrap .item3 .textBox{
+	padding-bottom: 11px;
+}

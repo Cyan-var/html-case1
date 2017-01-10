@@ -1,0 +1,92 @@
+#allBg{
+	width: 863px;
+	height: 573px;
+	padding: 43px 76px 73px 61px;
+	background: url(../img/all_bg.jpg) no-repeat;
+}
+#wrap1{
+	width: 260px;
+	height: 573px;
+	line-height: 36px;
+	font: 14px/36px "Microsoft Yahei";
+	color: #000;
+	background: #fff url(../img/wrap_bg.png) no-repeat right bottom;
+}
+#item1{
+	width: 260px;
+	height: 108px;
+	padding: 11px 0px 9px;
+	border-bottom: 1px solid #d2d2d2;
+}
+#item2{
+	width: 260px;
+	height: 180px;
+	padding: 10px 0px;
+	border-bottom: 1px solid #d2d2d2;
+}
+#item3{
+	width: 260px;
+	height: 36px;
+	padding: 10px 0px;
+	border-bottom: 1px solid #d2d2d2;
+}
+#item4{
+	width: 260px;
+	height: 72px;
+	padding-top: 11px;
+	padding-bottom: 9px;
+	border-bottom: 1px solid #d2d2d2;
+}
+#item5{
+	width: 260px;
+	height: 72px;
+	padding-top: 11px;
+	padding-bottom: 10px;
+}
+#item1_1{
+	padding-left: 48px;
+	background: url(../img/next.png) no-repeat 232px;
+}
+#item1_2{
+	padding-left: 48px;
+	background: url(../img/right.png) no-repeat 20px;
+}
+#item1_3{
+	padding-left: 48px;
+	background: url(../img/next.png) no-repeat 232px;
+}
+#item2_1{
+	padding-left: 48px;
+	background: url(../img/yuan.png) no-repeat 20px;
+}
+#item2_2{
+	padding-left: 48px;
+}
+#item2_3{
+	padding-left: 48px;
+}
+#item2_4{
+	padding-left: 48px;
+	background-color: #f6f6f6;
+}
+#item2_5{
+	padding-left: 48px;
+}
+#item3_1{
+	padding-left: 48px;
+	background: url(../img/next.png) no-repeat 232px;
+}
+#item4_1{
+	padding-left: 48px;
+}
+#item4_2{
+	padding-left: 48px;
+}
+#item5_1{
+	padding-left: 48px;
+	background: url(../img/next.png) no-repeat 232px;
+}
+#item5_2{
+	padding-left: 48px;
+	background: url(../img/next.png) no-repeat 232px;
+}
